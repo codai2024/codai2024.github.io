@@ -180,7 +180,7 @@ Dual submissions **are** allowed for the archival track, but please check the du
 Authors of accepted archival papers should upload the final version of their paper to the submission system by the camera-ready deadline. Authors may use **one extra page** to address reviewer comments, for a total of nine pages + references. Broader Impacts/Ethics and Limitations sections are optional and can be included on a 10th page.
 
 ## Contact
-Please contact the organizers at <a href="mailto:blackboxnlp@googlegroups.com">blackboxnlp@googlegroups.com</a> for any questions.
+Please contact the organizers at o <a href="mailto:codaihelp@gmail.com">codaihelp@gmail.com</a> for any questions.
 
 ## Sponsors
 
@@ -188,8 +188,6 @@ Please contact the organizers at <a href="mailto:blackboxnlp@googlegroups.com">b
 * EX Apple
 
 ## Organizers
-
-You can reach the organizers by e-mail to <a href="mailto:codaihelp@gmail.com">codaihelp@gmail.com</a>.
 
 ### Rajesh Sharma
 Rajesh Sharma, Head, CSS Lab, University of Tartu, Estonia, Email: rajesh.sharma@ut.ee (Primary contact)
