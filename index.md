@@ -1,5 +1,5 @@
-# BlackboxNLP 2023
-The sixth edition of BlackboxNLP will be co-located with EMNLP, in Singapore on December 7 2023.
+# CODAI: COuntering Disinformation with Artificial Intelligence
+The first edition of CODAI will be co-located with ECAI, in S19-24 OCTOBER 2024 Santiago de Compostela.
 
 ## News
 - We welcome EMNLP Findings papers with a focus on model interpretability for presentation at the BlackboxNLP workshop. Please contact us via [blackboxnlp@googlegroups.com](blackboxnlp@googlegroups.com) by the 25th of October, noon ET.
