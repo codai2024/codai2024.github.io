@@ -2,45 +2,45 @@
 The first edition of CODAI will be co-located with ECAI, in S19-24 OCTOBER 2024 Santiago de Compostela.
 
 ## News
-- We welcome EMNLP Findings papers with a focus on model interpretability for presentation at the BlackboxNLP workshop. Please contact us via [blackboxnlp@googlegroups.com](blackboxnlp@googlegroups.com) by the 25th of October, noon ET.
-- Find us on Twitter/X here: [https://twitter.com/blackboxnlp](https://twitter.com/blackboxnlp)
-- We started a YouTube channel: [https://www.youtube.com/@blackboxnlp](https://www.youtube.com/@blackboxnlp). Subscribe to be informed of all upcoming content. You can already watch the BlackboxNLP 2022 keynotes.
+- 
+- 
+- 
 
 
 ## Schedule
 `9:00 -  9:10` Opening remarks
 
-`9:10 - 10:00` Invited talk by **Zhijing Jin**
+`9:10 - 10:00` Invited talk by **Prof.XXX**
 
 `10:00 - 10:30` 2 oral presentations:
-1. Systematic Generalization by Finetuning? Analyzing Pretrained Language Models Using Constituency Tests<br>_Aishik Chakraborty, Jackie CK Cheung and Timothy J. O'Donnell_
-2. Emergent Linear Representations in World Models of Self-Supervised Sequence Models<br>_Neel Nanda, Andrew Lee and Martin Wattenberg_
+1. Topic
+2. Topic 
 
 `10:30 - 11:00` Break ☕
 
-`11:00 - 12:30` In-person & virtual **poster** sessions - _East Foyer located on B2 of the Resorts World Sentosa Convention Center_ and on [gather.town](https://gather.town/).
+`11:00 - 12:30` In-person & virtual **poster** sessions 
 
 `12:30 - 14:00` Lunch 🥪
 
 `14:00 - 15:30` 6 oral presentations:
-1. Knowledge-grounded Natural Language Recommendation Explanation<br>_Anthony Colas, Jun Araki, Zhengyu Zhou, Bingqing Wang and Zhe Feng_
-2. On Quick Kisses and How to Make Them Count: A Study on Event Construal in Light Verb Constructions with BERT<br>_Chenxin Liu and Emmanuele Chersoni_
-3. Rigorously Assessing Natural Language Explanations of Neurons<br>_Jing Huang, Atticus Geiger, Karel D'Oosterlinck, Zhengxuan Wu and Christopher Potts_
-4. Memory Injections: Correcting Multi-Hop Reasoning Failures During Inference in Transformer-Based Language Models<br>_Mansi Sakarvadia, Aswathy Ajith, Arham Khan, Daniel Grzenda, Nathaniel Hudson, André Bauer, Kyle Chard and Ian Foster_
-5. NPIs Aren't Exactly Easy: Variation in Licensing across Large Language Models<br>_Deanna DeCarlo, William Palmer, Michael Wilson and Bob Frank_
-6. Identifying and Adapting Transformer-Components Responsible for Gender Bias in an English Language Model<br>_Abhijith Chintam, Rahel Beloch, Willem Zuidema, Michael Hanna and Oskar van der Wal_
+1. X
+2. X
+3. X
+4. X
+5. X
+6. X
 
 `15:30 - 16:00` Break ☕
 
-`16:00 - 16:50` Invited talk by **Antoine Bosselut**
+`16:00 - 16:50` Invited talk by **Prof. X**
 
 `16:50 - 17:00` Closing remarks and awards
 
 `17:00 - 18:00` Panel discussion on **Mechanistic Interpretability** with:
-- Neel Nanda
-- John Hewitt
-- Antoine Bosselut
-- Zhijing Jin
+- Prof A
+- Prof B
+- Prof C
+- Prof D
 
 
 
