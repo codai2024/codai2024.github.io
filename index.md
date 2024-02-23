@@ -1,13 +1,68 @@
 # CODAI: COuntering Disinformation with Artificial Intelligence
 The first edition of CODAI will be co-located with ECAI, in S19-24 OCTOBER 2024 Santiago de Compostela.
 
-## News
-- 
-- 
-- 
+
+Social media platforms which have been designed primarily to allow users to create and share content with others, have become integral parts of modern communication, enabling people to connect with friends, family as well as for broadcasting information to a wider audience. On one side these platforms provide an opportunity to facilitate discussions in an open and free environment.  On the flip side, new societal issues have started emerging on these platforms.  Among all the issues, the topic of misinformation has been prevalent on these platforms. The term misinformation is an umbrella term which encompasses various entities such as fake news, hoaxes, rumors to name a few. While misinformation refers to non-intentional spread of non-authentic information, the term disinformation points to spreading of a piece of inauthentic information with certain malign intentions.  
+
+
+Initially, researchers have mainly focused on identifying and characterizing misinformation using text based techniques through traditional and advanced NLP techniques. However, with the advancement of techniques and availability of various AI tools, the (mis)information has started appearing in the form of multimodality. For example, a piece of image with incorrect text embedded on it or a morphed video with audio. In addition, the topic of misinformation has impacted individuals and communities from various domains such as medical, political, entertainment, business, etc. This calls for combining forces from different domains. In other words, to counter misinformation computer scientists need to work with domain specialists. To understand the intention a psychologist's inputs can also be vital to understand the reasons for the spreading of misinformation. To summarize, a holistic view is needed to counter the menace of misinformation spread on online social media platforms.
+
+The International Workshop “CODAI: COuntering Disinformation with Artificial Intelligence” provides a platform for researchers from various domains to come together and not only present their works but also provide an ecosystem to discuss ideas which can facilitate countering the spread of misinformation. 
+
+
+## Topics of interest
+Areas of interest to include, but are not limited to, the following:
+
+
+### Network level
+
+- Information diffusion models for understanding and thwarting the spread of low-quality information;
+-  Understanding and detection of disinformation;
+- Characterization and detection of coordinated inauthentic behavior;
+- Novel techniques for detecting malicious accounts (e.g., bots, cyborgs and trolls);
+- Graph mining and network analysis approaches for studying polarized communities and for reducing polarization;
+
+
+### Content level
+
+- Information diffusion models for understanding and thwarting the spread of low-quality information;
+-  Understanding and detection of disinformation;
+- Characterization and detection of coordinated inauthentic behavior;
+- Novel techniques for detecting malicious accounts (e.g., bots, cyborgs and trolls);
+- Graph mining and network analysis approaches for studying polarized communities and for reducing polarization;
+
+
+### Context level
+
+- Study, inference and detection of narratives in disinformation campaigns;
+- Impact/Harm of misinformation on society.
+- Case-studies on the spread and impact of fake news in controversial topics such as politics, health, climate change, economics, migration.
+- Social and psychological studies, or data analytics related to misinformation spreaders.
+
+## Evaluation
+
+Metrics, tools and methods for measuring the impact of fake news and of coordinated inauthentic behaviors;
+Datasets for evaluation
+
+This workshop will cover works that not only provide studies, characterize or model mis- and dis-information but where state-of-the-art frameworks can also be discussed for countering not only uni but also multi-model. We also invite works related to coordinated inauthentic behavior and information operations in different forms of misinformation, that is rumors, fake news, etc.
 
 
 ## Schedule
+
+`9.00-9.30`   Welcome
+`9.30-10.30` Invited talk - fact-checking field
+`10.30-11.00` Coffee - networking  ☕
+`11.00-13:00` Paper presentations
+`13:00-14:00` Lunch break 🥪
+`14:00-15:00` Invited talk (NLP and misinformation)
+`15:00-16.30` Paper presentations
+`16:30-17:00` Coffee break - networking
+`17:00-18:00` Discussion panel
+`18:00-18.30` Final words
+
+
+
+<!--
 `9:00 -  9:10` Opening remarks
 
 `9:10 - 10:00` Invited talk by **Prof.XXX**
@@ -16,7 +71,7 @@ The first edition of CODAI will be co-located with ECAI, in S19-24 OCTOBER 2024 
 1. Topic
 2. Topic 
 
-`10:30 - 11:00` Break ☕
+`10:30 - 11:00` Break
 
 `11:00 - 12:30` In-person & virtual **poster** sessions 
 
@@ -42,25 +97,25 @@ The first edition of CODAI will be co-located with ECAI, in S19-24 OCTOBER 2024 
 - Prof C
 - Prof D
 
-
+--->
 
 ## Invited Speakers
-### Zhijing Jin
+### A
 <p><img src="img/Zhijing.png" width="150px" height="140px"></p>
 
 _Zhijing Jin is a Ph.D. at Max Planck Institute & ETH. Her research focuses on socially responsible NLP via causal and moral principles. Specifically, she works on expanding the impact of NLP by promoting NLP for social good, and developing CausalNLP to improve robustness, fairness, and interpretability of NLP models, as well as analyze the causes of social problems._
 
 **Causal NLP: A Path towards Opening the Black Box of NLP**<br>
-> Recent advancements in large language models (LLMs) have demonstrated impressive performance in many tasks. However, the opaque nature of these NLP models often obscures the reasons behind their successes and unexpected failures. To interpret LLMs, early studies have identified correlations between embeddings and linguistic properties. In this talk, I will provide an overview of how causal analysis is being utilized in interpretability research for LLMs, highlighting its unique contributions to the field, as well as the open challenges. I will introduce the role of causality in two branches of interpretability: for behavioral studies of LLMs, I propose a causal framework that reformulates the robustness problem as a difference in the causal decision-making processes of humans versus those of the model; to understand the inner workings of LLMs, I will discuss how causal intervention and causal mediation analysis aid in unraveling the mechanisms of reasoning in LLMs, and how different mechanisms interact. I believe Causal NLP opens a unique pathway towards paving the way for more transparent, reliable, and responsible AI systems.
+> Recent advancements in large language models (LLMs) .
 
 
-### Antoine Bosselut
+### B
 <p><img src="img/Antoine.jpg" width="150px" height="150px"></p>
 
-_Antoine Bosselut is an assistant professor in the School of Computer and Communication Sciences at the École Polytechnique Fédéral de Lausanne (EPFL). He was a postdoctoral scholar at Stanford University and a Young Investigator at the Allen Institute for AI (AI2). He completed his PhD at the University of Washington and was a student researcher at Microsoft Research. His research interests are in building systems that mix knowledge and language representations to solve problems in NLP, specializing in commonsense representation and reasoning._
+A is a Ph.D. at Max Planck Institute & ETH. Her research focuses on socially responsible NLP via causal and moral principles. Specifically, she works on expanding the impact of NLP by promoting NLP for social good, and developing CausalNLP to improve robustness, fairness, and interpretability of NLP models, as well as analyze the causes of social problems._
 
 **From Mechanistic Interpretability to Mechanistic Reasoning**
-> Pretrained language models (LMs) encode implicit representations of knowledge in their parameters. Despite this observation, our best methods for interpreting these representations yield few actionable insights on how to manipulate this parameter space for downstream benefit. In this talk, I will present work on methods that simulate machine reasoning by localizing and modifying parametric knowledge representations. First, I will present a method for discovering knowledge-critical subnetworks within pretrained language models, and show that these sparse computational subgraphs are responsible for the model’s ability to encode specific pieces of knowledge. Then, I will present a new reasoning algorithm, RECKONING, a bi-level optimisation procedure that dynamically encodes and reasons over new knowledge at test-time using the model’s existing learned knowledge representations as a scratchpad. Finally, I will discuss next steps and challenges in using internal model mechanisms for reasoning.
+> Pretrained language models (LMs) encode implicit representations of knowledge in their parameters. Despite this observation, our best methods for interpreting these representations yield few actionable insights on how to manipulate this parameter space for downstream benefit. In this talk, I will present work on methods that simulate ....
 
 ## Panel Discussion on "Mechanistic Interpretability"
 Panelists: 
@@ -71,10 +126,13 @@ Panelists:
 
 ## Important dates
 
-- ~~**September 1, 2023** - Paper submission deadline (via Softconf: [https://www.softconf.com/emnlp2023/blackboxnlp2023/](https://www.softconf.com/emnlp2023/blackboxnlp2023/)).~~
-- ~~**October 6, 2023** - Notification of acceptance.~~
-- ~~**October 18, 2023** - Camera ready deadline.~~
-- **December 7, 2023** - Workshop date.
+ - Submission deadline: 15th May 2024 
+ - Accept/Reject Communications: 1st July 2024
+ - Camera-ready papers due: 22nd July 2023
+ - Workshop date:  19 October 2024
+
+
+
 
 All deadlines are 11:59pm UTC-12 ("anywhere on earth").
 
@@ -134,29 +192,14 @@ Please contact the organizers at <a href="mailto:blackboxnlp@googlegroups.com">b
 
 You can reach the organizers by e-mail to <a href="mailto:codaihelp@gmail.com">codaihelp@gmail.com</a>.
 
-### Yonatan Belinkov
-Yonatan Belinkov is an assistant professor at the Technion. 
-He has previously been a Postdoctoral Fellow at Harvard and MIT.
-His recent research focuses on interpretability and robustness of neural network models of language. 
-His research has been published at leading NLP and ML venues. 
-His PhD dissertation at MIT analyzed internal language representations in deep learning models.
-He has been awarded the Harvard Mind, Brain, and Behavior Postdoctoral Fellowship and the Azrieli Early Career Faculty Fellowship.
-He co-organised BlackboxNLP in 2019, 2020, and 2021, as well as the 1st and 2nd machine translation robustness tasks at WMT.
+### Rajesh Sharma
+Rajesh Sharma, Head, CSS Lab, University of Tartu, Estonia, Email: rajesh.sharma@ut.ee (Primary contact)
+Rajesh Sharma is working as an Associate Professor of Information Systems at the Institute of Computer Science at the University of Tartu, Estonia. His interests include Big data analytics, especially in the domain of Social Media and Social Network Analysis. He has published papers in ICWSM, IEEE Big data and IEEE/ACM ASONAM conferences and in journals such as International Journal of Data Science and Analytics, IEEE Transactions on Network Science and Engineering, Journal of Social Network Analysis and Mining. In particular, he has published several papers on (mis)information diffusion on single and multilayer networks. He has served on the advisory board members of an IMF project about detecting conflicts of interest in public procurement. He is also associate editor for the Elsevier Journal of Social Network Analysis and Mining and is also a PC member for the ASONAM conference. He is also part of TPC of Complex Networks, and SocInfo Conferences. He was an invited speaker at the Digital Humanities Workshop, Estonia. Presently, he is leading efforts on SoBigData++ research infrastructure project, and two CHIST-ERA projects, namely SAI and HAMISON. In the past, he was part of SoBigData (H2020) project and InWeGe (EU commission project related to the gender pay gap in Estonia). He is also involved in an Industrial project with Swedbank, one of the largest banks in Baltics. He was one of the organizers for the “DisInfo”  workshop (which was related to DisInformation behavior) that happened at the International Conference on Social Informatics (SocInfo) 2020.  https://kdd.isti.cnr.it/socinfo2020/workshops.html
 
-### Najoung Kim
-Najoung Kim is an Assistant Professor at the Department of Linguistics at Boston University. She is currently visting Google Research part-time. She is interested in studying meaning in both human and machine learners, especially ways in which they generalize to novel inputs and ways in which they treat implicit meaning. Her research has been published in various NLP venues including ACL and EMNLP. She was a co-organizer of the Inverse Scaling Competition, and a senior area chair for ACL 2023.
+### Anselmo Peñas
+Anselmo Peñas, NLP & IR UNED, Universidad Nacional de Educación a Distancia (UNED) Email: anselmo@lsi.uned.es
+Anselmo Peñas is full professor of computer science at UNED. He holds the Award of the Spanish Society for Natural Language Processing. In 2010 he stayed at the University of Southern California as a visiting scholar. In 2016 he stayed 6 months in the University of York working on unsupervised machine learning techniques applied to natural language interpretation. He has participated in several EU projects and, currently, he is the international coordinator of EU CHIST-ERA HAMISON project (2023-2025) on the Holistic Analysis of Disinformation. From 2007 to 2015, he acted as the international coordinator of the European Question Answering benchmarking and evaluation campaigns in multiple European Languages at the Cross-Language Evaluation Forum (CLEF QA Track).
 
-### Sophie Hao
-Sophie Hao is a Faculty Fellow at the Center for Data Science at New York University. She recently completed her PhD in Linguistics and Computer Science at Yale University, where her dissertation work focused on applications of feature attribution methods to NLP. More generally, Sophie is interested in theories of interpretation and explanation and how such theories can guide our usage and evaluation of analysis methods for black-box models. She is a frequent contributor to BlackboxNLP, having presented at its first three editions.
-
-### Arya McCarthy
-Arya McCarthy is a Research Scientist at [Scaled Cognition][sc]. He previously was a Ph.D. student in the Center for Language and Speech Processing at the Johns Hopkins University. He is supported by an Amazon Fellowship, a Frederick Jelinek Fellowship, and the International Olympic Committee. He investigates pan-lingual weak supervision for building core NLP tools and datasets in new languages; recent work has investigated limitations of large language models on simple transduction tasks. His research has been published in ACL, EMNLP, CoNLL, COLING, ICLR, and ICASSP.
-
-### Jaap Jumelet
-Jaap Jumelet is a PhD candidate at the Institute for Logic, Language and Computation at the University of Amsterdam. His research focuses on gaining an understanding of how neural models are able to build up hierarchical representations of their input, by leveraging hypotheses from (psycho-)linguistics. His research has been published at leading NLP venues, including TACL, ACL, and CoNLL. His first ever paper was presented at the first BlackboxNLP workshop in 2018, and he has since presented work at each subsequent edition of the workshop. 
-
-### Hosein Mohebbi
-Hosein Mohebbi is a PhD candidate at the Department of Cognitive Science and Artificial Intelligence at Tilburg University. He is part of the InDeep consortium, working on analyzing and interpreting deep neural language and speech models. During his Master’s (2019-2021), he mainly focused on interpretability and accelerating inference of pre-trained language models. His research has been published in NLP venues such as ACL, EACL, EMNLP and BlackboxNLP.
 
 
 ## Anti-Harassment Policy
