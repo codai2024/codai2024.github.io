@@ -132,7 +132,7 @@ Please contact the organizers at <a href="mailto:blackboxnlp@googlegroups.com">b
 
 ## Organizers
 
-You can reach the organizers by e-mail to <a href="mailto:blackboxnlp@googlegroups.com">blackboxnlp@googlegroups.com</a>.
+You can reach the organizers by e-mail to <a href="mailto:codaihelp@gmail.com">codaihelp@gmail.com</a>.
 
 ### Yonatan Belinkov
 Yonatan Belinkov is an assistant professor at the Technion. 
