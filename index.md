@@ -126,12 +126,12 @@ A is a Ph.D. at Max Planck Institute & ETH. Her research focuses on socially res
 **From Mechanistic Interpretability to Mechanistic Reasoning**
 > Pretrained language models (LMs) encode implicit representations of knowledge in their parameters. Despite this observation, our best methods for interpreting these representations yield few actionable insights on how to manipulate this parameter space for downstream benefit. In this talk, I will present work on methods that simulate ....
 
-## Panel Discussion on "Mechanistic Interpretability"
+## Panel Discussion on XXX
 Panelists: 
-- John Hewitt, Stanford
-- Zhijing Jin, Max Planck Institute & ETH
-- Antoine Bosselut, EPFL
-- Neel Nanda, DeepMind
+- A
+- B
+- C
+- D
 
 ## Important dates
 
@@ -139,8 +139,6 @@ Panelists:
  - Accept/Reject Communications: 1st July 2024
  - Camera-ready papers due: 22nd July 2023
  - Workshop date:  19 October 2024
-
-
 
 
 All deadlines are 11:59pm UTC-12 ("anywhere on earth").
@@ -205,28 +203,45 @@ Anselmo Peñas is full professor of computer science at UNED. He holds the Award
 ## Program Committee
 
 **Rodrigo Agerri**, HiTZ Center - Ixa, University of the Basque Country (UPV/EHU)
+
 **Paolo Rosso**, Natural Language Engineering Lab., Universidad Politécnica de Valencia (UPV).
+
 **Arkaitz Zubiaga**,  Social Data Science lab , Queen Mary University of London
+
 **Harith Alani**, Knowledge Media Institute, Open University, London
+
 **Anwitaman Datta**, Nanyang Technological University, Singapore
+
 **Johannes Langguth**, Simula Research Laboratory, Norway
+
 **Serena Villata**, Centre national de la recherche scientifique Università degli Studi di Torino, Italy      
+
 **Elena Cabrio**, Université Côte d'Azur, France
+
 **David Camacho**, Applied Intelligence & Data Analysis group, Universidad Politécnica de Madrid (UPM)
+
 **Anselmo Peñas**, NLP & IR UNED, Universidad Nacional de Educación a Distancia (UNED)
+
 **Roberto Centeno**, NLP & IR UNED, Universidad Nacional de Educación a Distancia (UNED).
+
 **Álvaro Rodrigo**, NLP & IR UNED, Universidad Nacional de Educación a Distancia (UNED).
+
 **Rajesh Sharma**, CSS Lab, University of Tartu.
+
 **Mudit Dhawan**, Microsoft Research
+
 **Neha Pathak**, Indian Institute of Information Technology (IIIT) Delhi
+
 **Giulio Rossetti**, CNR, Pisa
+
 **Jan Milan**, Applied University of Science, Zurich
+
 **Rémy Cazabet**, Univ. Lyon 1, Lyon, France
 
 
 
 ## Anti-Harassment Policy
-BlackboxNLP 2023 adheres to the [ACL Anti-Harassment Policy](https://www.aclweb.org/adminwiki/sphp?title=Anti-Harassment_Policy).
+CODAI 2024 adheres to the [ECAI Anti-Harassment Policy]().
 
 
-[sc]: https://scaledcognition.com
+
