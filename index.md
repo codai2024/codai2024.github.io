@@ -50,14 +50,23 @@ This workshop will cover works that not only provide studies, characterize or mo
 ## Schedule
 
 `9.00-9.30`   Welcome
+
 `9.30-10.30` Invited talk - fact-checking field
+
 `10.30-11.00` Coffee - networking  ☕
+
 `11.00-13:00` Paper presentations
+
 `13:00-14:00` Lunch break 🥪
+
 `14:00-15:00` Invited talk (NLP and misinformation)
+
 `15:00-16.30` Paper presentations
+
 `16:30-17:00` Coffee break - networking
+
 `17:00-18:00` Discussion panel
+
 `18:00-18.30` Final words
 
 
@@ -175,18 +184,10 @@ Authors of accepted archival papers should upload the final version of their pap
 ## Contact
 Please contact the organizers at <a href="mailto:blackboxnlp@googlegroups.com">blackboxnlp@googlegroups.com</a> for any questions.
 
-## Previous workshops
-
-- [BlackboxNLP 2018](https://blackboxnlp.github.io/2018/) (at EMNLP 2018)
-- [BlackboxNLP 2019](https://blackboxnlp.github.io/2019/) (at ACL 2019)
-- [BlackboxNLP 2020](https://blackboxnlp.github.io/2020/) (at EMNLP 2020)
-- [BlackboxNLP 2021](https://blackboxnlp.github.io/2021/) (at EMNLP 2021)
-- [BlackboxNLP 2022](https://blackboxnlp.github.io/2022/) (at EMNLP 2022)
-
 ## Sponsors
 
-* Google
-* Apple
+* Ex Google
+* EX Apple
 
 ## Organizers
 
@@ -199,6 +200,28 @@ Rajesh Sharma is working as an Associate Professor of Information Systems at the
 ### Anselmo Peñas
 Anselmo Peñas, NLP & IR UNED, Universidad Nacional de Educación a Distancia (UNED) Email: anselmo@lsi.uned.es
 Anselmo Peñas is full professor of computer science at UNED. He holds the Award of the Spanish Society for Natural Language Processing. In 2010 he stayed at the University of Southern California as a visiting scholar. In 2016 he stayed 6 months in the University of York working on unsupervised machine learning techniques applied to natural language interpretation. He has participated in several EU projects and, currently, he is the international coordinator of EU CHIST-ERA HAMISON project (2023-2025) on the Holistic Analysis of Disinformation. From 2007 to 2015, he acted as the international coordinator of the European Question Answering benchmarking and evaluation campaigns in multiple European Languages at the Cross-Language Evaluation Forum (CLEF QA Track).
+
+
+## Program Committee
+
+**Rodrigo Agerri**, HiTZ Center - Ixa, University of the Basque Country (UPV/EHU)
+**Paolo Rosso**, Natural Language Engineering Lab., Universidad Politécnica de Valencia (UPV).
+**Arkaitz Zubiaga**,  Social Data Science lab , Queen Mary University of London
+**Harith Alani**, Knowledge Media Institute, Open University, London
+**Anwitaman Datta**, Nanyang Technological University, Singapore
+**Johannes Langguth**, Simula Research Laboratory, Norway
+**Serena Villata**, Centre national de la recherche scientifique Università degli Studi di Torino, Italy      
+**Elena Cabrio**, Université Côte d'Azur, France
+**David Camacho**, Applied Intelligence & Data Analysis group, Universidad Politécnica de Madrid (UPM)
+**Anselmo Peñas**, NLP & IR UNED, Universidad Nacional de Educación a Distancia (UNED)
+**Roberto Centeno**, NLP & IR UNED, Universidad Nacional de Educación a Distancia (UNED).
+**Álvaro Rodrigo**, NLP & IR UNED, Universidad Nacional de Educación a Distancia (UNED).
+**Rajesh Sharma**, CSS Lab, University of Tartu.
+**Mudit Dhawan**, Microsoft Research
+**Neha Pathak**, Indian Institute of Information Technology (IIIT) Delhi
+**Giulio Rossetti**, CNR, Pisa
+**Jan Milan**, Applied University of Science, Zurich
+**Rémy Cazabet**, Univ. Lyon 1, Lyon, France
 
 
 
